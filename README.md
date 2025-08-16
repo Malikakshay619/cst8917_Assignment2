@@ -1,11 +1,8 @@
 # CST8917 – Serverless Applications  
 ## Assignment 2 – Serverless Service Alternatives Report
 
-**Name:** _<Your Name Here>_  
+**Name:** Akshay Malik
 **Course:** CST8917 – Serverless Applications  
-**Due:** Week 15 (August 15, 2025)  
-**Weight:** 10% of Final Grade  
-
 ---
 
 ## Introduction
